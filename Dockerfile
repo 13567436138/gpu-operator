@@ -1,1 +1,1 @@
-FROM nvcr.io/nvidia/gpu-operator:devel-ubi8
+FROM nvcr.io/nvidia/gpu-operator:v22.9.0
